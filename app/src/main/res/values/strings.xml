@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OpenCVApplication</string>
+
+    <!-- bottom_settings_bar strings-->
+    <string name="set_bluetooth_button_text">SET BLUETOOTH</string>
+    <string name="set_white_board_dimension_button">SET WHITEBOARD DIMENSION</string>
+
+    <!-- toast strings-->
+</resources>
